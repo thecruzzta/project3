@@ -1,0 +1,100 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/acruz's home/cs315/project3/Album.cpp
+Album.hpp
+/Volumes/acruz's home/cs315/project3/Album.hpp
+
+/Volumes/acruz's home/cs315/project3/Album.hpp
+fstream
+-
+cstring
+-
+
+/Volumes/acruz's home/cs315/project3/Artist.cpp
+Artist.hpp
+/Volumes/acruz's home/cs315/project3/Artist.hpp
+
+/Volumes/acruz's home/cs315/project3/Artist.hpp
+fstream
+-
+cstring
+-
+
+/Volumes/acruz's home/cs315/project3/Entity.cpp
+Entity.hpp
+/Volumes/acruz's home/cs315/project3/Entity.hpp
+iostream
+-
+
+/Volumes/acruz's home/cs315/project3/Entity.hpp
+
+/Volumes/acruz's home/cs315/project3/JSONParser.cpp
+JSONParser.hpp
+/Volumes/acruz's home/cs315/project3/JSONParser.hpp
+iostream
+-
+
+/Volumes/acruz's home/cs315/project3/JSONParser.hpp
+Entity.hpp
+/Volumes/acruz's home/cs315/project3/Entity.hpp
+
+/Volumes/acruz's home/cs315/project3/JSONToken.cpp
+JSONToken.hpp
+/Volumes/acruz's home/cs315/project3/JSONToken.hpp
+iomanip
+-
+iostream
+-
+
+/Volumes/acruz's home/cs315/project3/JSONToken.hpp
+iostream
+-
+
+/Volumes/acruz's home/cs315/project3/JSONTokenizer.cpp
+JSONTokenizer.hpp
+/Volumes/acruz's home/cs315/project3/JSONTokenizer.hpp
+iostream
+-
+fstream
+-
+vector
+-
+map
+-
+
+/Volumes/acruz's home/cs315/project3/JSONTokenizer.hpp
+string
+-
+fstream
+-
+JSONToken.hpp
+/Volumes/acruz's home/cs315/project3/JSONToken.hpp
+
+/Volumes/acruz's home/cs315/project3/Pair.cpp
+Pair.hpp
+/Volumes/acruz's home/cs315/project3/Pair.hpp
+iomanip
+-
+iostream
+-
+string
+-
+
+/Volumes/acruz's home/cs315/project3/Pair.hpp
+
+/Volumes/acruz's home/cs315/project3/Track.cpp
+Track.hpp
+/Volumes/acruz's home/cs315/project3/Track.hpp
+
+/Volumes/acruz's home/cs315/project3/Track.hpp
+
+/Volumes/acruz's home/cs315/project3/main.cpp
+iostream
+-
+
